@@ -14,4 +14,4 @@ license = {text = "MIT"}
 hi-lsiwh37249 = "hi_lsiwh37249.hello:hi"
 
 [tool.pdm]
-distribution = false
+distribution = true
